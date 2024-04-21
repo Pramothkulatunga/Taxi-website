@@ -9,7 +9,7 @@ createApp(App)
 .use(router)
 .use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyCSzfUbej6lqw-ZZED-iUxp9yZcH_dGeCw',
+    key: '',
   },
 })
   .mount('#app')
